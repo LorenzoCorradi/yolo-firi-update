@@ -1,0 +1,8 @@
+train: C:/Users/loren/Desktop/thermal/yolo-firi/YOLO-FIRI/dataset_test/train/images
+val: C:/Users/loren/Desktop/thermal/yolo-firi/YOLO-FIRI/dataset_test/valid/images
+test: C:/Users/loren/Desktop/thermal/yolo-firi/YOLO-FIRI/dataset_test/test/images
+
+
+nc: 11
+names: ['person','bike','car','motor','bus','train','truck','light','dog','scooter','other vehicle']
+
